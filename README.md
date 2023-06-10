@@ -32,3 +32,7 @@ To deploy this project run
   uvicorn food_recommendation_api:app --reload
 ```
 
+## Authors
+
+- [@Puranjay Bhargava](https://www.github.com/puranjayb)
+- [@Rakesh Kanneeswaran](https://github.com/rakeshkanneeswaranofficial)
